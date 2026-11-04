@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'components/bottom_nav.dart';
-import 'section/dashboard_mahasiswa_section.dart';
+import 'section/Mahasiswa/dashboard_mahasiswa_section.dart';
 
 void main() {
   runApp(const TelUParkirApp());

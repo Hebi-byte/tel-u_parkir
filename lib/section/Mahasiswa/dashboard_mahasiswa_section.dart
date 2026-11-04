@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import '../components/app_header.dart';
-import '../components/dashboard_card.dart';
+import '../../components/app_header.dart';
+import '../../components/dashboard_card.dart';
 
 class DashboardSection extends StatelessWidget {
   final ValueChanged<int> onNavigate;
